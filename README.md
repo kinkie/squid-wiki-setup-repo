@@ -1,3 +1,3 @@
 # kinkie.github.io
 
-WIP for importing the [squid wiki](https://wiki.squid-cache.org/) into github pages
+Archive of the repository used to migrate the squid wiki to github pages
